@@ -9,4 +9,3 @@ In simple words we take resources on rent and we have to pay only for whatever w
   * Flexibility
   * Disaster Recovery
   * Loss Prevention
-  * 
